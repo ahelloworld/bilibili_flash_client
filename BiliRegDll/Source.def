@@ -1,0 +1,12 @@
+LIBRARY "BiliRegDll.dll"
+
+EXPORTS
+	GetVdcode
+	Check
+	Reg
+	Myinfo
+	UpdateCookie
+	GetCurrencylog
+	UpdateCookieWithVdcode
+	GetVideoCid
+	GetFavorite
